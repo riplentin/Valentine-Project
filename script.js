@@ -75,7 +75,7 @@ function displayCatHeart() {
         // Hide the options container
         document.getElementById('options').style.display = 'none';
 var texto = document.createElement("div");
-texto.innerHTML = "¡Lo sabía, te amooo mi solcito hermosa!";
+texto.innerHTML = "¡Lo sabía, te amooo mi niña linda!";
 
 // Establecer estilos de CSS para centrar el texto
 texto.style.position = "absolute";
